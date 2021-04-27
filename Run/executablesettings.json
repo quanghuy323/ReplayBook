@@ -1,0 +1,18 @@
+{
+  "defaultLocale": 0,
+  "executables": [
+    {
+      "name": "Patch 11.8",
+      "targetPath": "D:\\Lien Minh Huyen Thoai\\GameData\\Apps\\lolVN\\Game\\League of Legends.exe",
+      "startFolder": "D:\\Lien Minh Huyen Thoai\\GameData\\Apps\\lolVN\\Game",
+      "patchNumber": "11.8.369.4139",
+      "launchArgs": "\"-GameBaseDir=D:\\Lien Minh Huyen Thoai\\GameData\\Apps\\lolVN\\Game\" \"-SkipRads\" \"-SkipBuild\" \"-EnableLNP\" \"-UseNewX3D=1\" \"-UseNewX3DFramebuffers=1\"",
+      "locale": "EnglishUS",
+      "customLocale": null,
+      "modifiedDate": "2021-04-15T20:03:57.3896223+07:00"
+    }
+  ],
+  "sourceFolders": [
+    "D:\\Lien Minh Huyen Thoai"
+  ]
+}
